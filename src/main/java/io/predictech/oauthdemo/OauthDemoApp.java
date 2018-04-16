@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class OauthDemoApplication {
+public class OauthDemoApp {
 
     public static void main(String[] args) {
-        SpringApplication.run(OauthDemoApplication.class, args);
+        SpringApplication.run(OauthDemoApp.class, args);
     }
 }
